@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# SQLite database
+pim.db
+
+# Runtime log files
+logs/*.log
+
+# Keep the logs folder in Git
+!logs/.gitkeep
+
+# VS Code settings
+.vscode/
